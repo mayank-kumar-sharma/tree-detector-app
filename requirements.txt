@@ -1,4 +1,6 @@
-ultralytics==8.1.0
-gdown
-opencv-python-headless
+streamlit
+ultralytics
 Pillow
+opencv-python-headless
+torch
+numpy
