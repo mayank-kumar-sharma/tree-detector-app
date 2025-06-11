@@ -1,6 +1,7 @@
 streamlit
 ultralytics==8.1.0
 Pillow
-opencv-python
+opencv-python-headless
 numpy
 torch
+gdown
